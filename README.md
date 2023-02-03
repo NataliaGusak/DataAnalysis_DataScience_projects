@@ -1,4 +1,4 @@
-# Data Science Projects
+# DataAnalysis_DataScience_projects
 
 ## T-SQL - SalesDataAnalysis.sql
 Отчёт, который позволяет смотреть динамику sell out по каналам продаж.
